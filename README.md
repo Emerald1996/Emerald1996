@@ -1,4 +1,4 @@
-<h1 align="center">Pleased to meet you visitor 👋, I'm Agimezelu Emmanuel</h1>
+<h1 align="center">Pleased to meet you visitor 👋, I'm Emma Emerald</h1>
 <h3 align="center">Customer support enthusiast | web developer | Certified mobile web specialist(GOOGLE) | Trainee at ALX(Software Engineer)</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU"/>
 
