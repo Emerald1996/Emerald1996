@@ -1,4 +1,4 @@
-<h1 align="center">Pleased to meet you visitor 👋, I'm Emma Emerald</h1>
+<h1 align="center">Pleased to meet you visitor 👋, I'm Emerald</h1>
 <h3 align="center">Customer support enthusiast | web developer | Certified mobile web specialist(GOOGLE) | Trainee at ALX(Software Engineer)</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU"/>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view](https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view](https://drive.google.com/file/d/1gvCMOfOy0xTZvpT3QOF-5ib14dlEs5dL/view?usp=sharing)](https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view)
 
 - ⚡ Fun fact **I love learning new things**
 
