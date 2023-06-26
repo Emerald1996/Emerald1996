@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view](https://drive.google.com/file/d/1gvCMOfOy0xTZvpT3QOF-5ib14dlEs5dL/view?usp=sharing)](https://drive.google.com/file/d/1yGVCg4imlxt4uwrCyoY3orANglebnHb7/view)
+- 📄 Know about my experiences [ https://drive.google.com/file/d/1gvCMOfOy0xTZvpT3QOF-5ib14dlEs5dL/view?usp=sharing ]
 
 - ⚡ Fun fact **I love learning new things**
 
