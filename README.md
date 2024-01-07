@@ -6,27 +6,27 @@
 
 <p align="left"> <a href="https://twitter.com/emmyrald27" target="blank"><img src="https://img.shields.io/twitter/follow/emmyrald27?logo=twitter&style=for-the-badge" alt="emmyrald27" /></a> </p>
 
-- 🔭 I’m currently working on **Real E-commerce project from scandiweb**
+- 🔭 I’m currently working on **shopify theme-development**
 
-- 🌱 I’m currently learning **Software Engineering at ALX , graphql and node**
+- 🌱 I’m currently learning **Software Engineering and app development**
 
 - 🤝 I’m looking for help with **A frontend developer job**
 
 - 👨‍💻 All of my projects are available at [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, php, shopify**
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
-- 📄 Know about my experiences [ https://drive.google.com/file/d/1gvCMOfOy0xTZvpT3QOF-5ib14dlEs5dL/view?usp=sharing ]
+- 📄 Know about my experiences [ https://drive.google.com/file/d/13ndIczUIZy52JEENL1Glwk8T2v1_AL9m/view?usp=sharing ]
 
-- ⚡ Fun fact **I love learning new things**
+- ⚡ Fun fact **I love learn the new tech industry trends and grow with experts in the field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/emma-emerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/emma-emerald" height="30" width="40" /></a>
-<a href="https://twitter.com/emmyrald27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmyrald27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agimezelu-emmanuel-b1796320b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agimezelu-emmanuel-b1796320b" height="30" width="40" /></a>
+<a href="https://twitter.com/agiemerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agiemerald" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-agimezelu-b1796320b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-agimezelu-b1796320b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
