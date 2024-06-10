@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
-- 📄 Know about my experiences [ https://drive.google.com/file/d/13ndIczUIZy52JEENL1Glwk8T2v1_AL9m/view?usp=sharing ]
-
 - ⚡ Fun fact **I love learn the new tech industry trends and grow with experts in the field**
 
 <h3 align="left">Connect with me:</h3>
