@@ -1,5 +1,5 @@
-<h1 align="center">Pleased to meet you visitor 👋, I'm Emerald</h1>
-<h3 align="center">Customer support enthusiast | web developer and designer | Certified mobile web specialist(GOOGLE) | Trainee at ALX(Software Engineer)</h3>
+<h1 align="center">Pleased to meet you visitor 👋, I'm Emmanuel Emerald Agimezelu</h1>
+<h3 align="center">Customer support enthusiast | Fullstack software developer intern | Shopify developer</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emerald1996&label=Profile%20views&color=0e75b6&style=flat" alt="emerald1996" /> </p>
@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with **A frontend developer job**
 
-- 👨‍💻 All of my projects are available at [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app)
+- 👨‍💻 Some of my projects are available here [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app)
 
-- 💬 Ask me about **react, php, shopify**
+- 💬 Ask me about **react, Javascript, shopify**
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
