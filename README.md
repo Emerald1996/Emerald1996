@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/agiemerald" target="blank"><img src="https://img.shields.io/twitter/follow/emmyrald27?logo=twitter&style=for-the-badge" alt="agiemerald" /></a> </p>
 
-- 🔭 I’m currently working on **shopify theme-development**
+- 🌱 I’m currently learning **Software Engineering and Shopify theme development**
 
-- 🌱 I’m currently learning **Software Engineering and app development**
-
-- 🤝 I’m looking for help with **A frontend developer job**
+- 🤝 I’m looking for help with **A remote job**
 
 - 👨‍💻 Some of my projects are available here [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app)
 
@@ -18,7 +16,7 @@
 
 - 📫 How to reach me **agimezeluemmanuel@gmail.com**
 
-- ⚡ Fun fact **I love learn the new tech industry trends and grow with experts in the field**
+- ⚡ Fun fact **I am a continuous learner which makes me a valuable asset to any team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
