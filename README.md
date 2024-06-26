@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emerald1996&label=Profile%20views&color=0e75b6&style=flat" alt="emerald1996" /> </p>
 
-<p align="left"> <a href="https://twitter.com/agiemerald" target="blank"><img src="https://img.shields.io/twitter/follow/emmyrald27?logo=twitter&style=for-the-badge" alt="agiemerald" /></a> </p>
+<p align="left"> <a href="https://twitter.com/agiemerald" target="blank"><img src="https://img.shields.io/twitter/follow/agiemerald?logo=twitter&style=for-the-badge" alt="agiemerald" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering and Shopify theme development**
 
 - 🤝 I’m looking for help with **A remote job**
 
-- 👨‍💻 Some of my projects are available here [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app)
+- 👨‍💻 Some of my projects are available here [https://agimezeluemmanuel.vercel.app](https://agimezeluemmanuel.vercel.app), You can also explore on the pinned section of my github profile 😉
 
 - 💬 Ask me about **react, Javascript, shopify**
 
